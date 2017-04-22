@@ -68,9 +68,9 @@
 <div class="overlay-nav">
 	<span class="close-nav" >&times;</span>	
 	<ul>
-		<li><a href="#main">Main</a></li>
-		<li><a href="#works">Portfolio</a></li>
-		<li><a href="#contacts">Contacts</a></li>
+		<li class="click"><a href="#main">Main</a></li>
+		<li class="click"><a href="#works">Portfolio</a></li>
+		<li class="click"><a href="#contact">Contacts</a></li>
 	</ul>
 </div>
 	</header>
@@ -382,7 +382,7 @@
 		</div>
 	</section>
 
-	<footer id="contacts">
+	<footer id="contact">
 			<div class="footer-contacts">
 				<div class="container">
 					<div class="row">
@@ -473,7 +473,7 @@
     		$('.close-nav').click(function (){
     			$('.overlay-nav').hide('slow');
     		})
-    		$('li').click(function(){
+    		$('.click').click(function(){
     			$('.overlay-nav').hide('slow');
     		})
     	})
