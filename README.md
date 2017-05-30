@@ -1,5 +1,5 @@
 # ShopnoLP
-Landing page example-2
+Direct link
 https://juliaskiff.github.io/ShopnoLP/ShopnoLP/index.html
 
 For this project I used HTML, CSS3, Bootstrap 3, Jquerry.
@@ -10,10 +10,10 @@ As Less complier I used Winless.
 
 Other technologies I used for the project:
 
-•	Flex Box
+  •	Flex Box
 
-•	Icons - http://fontawesome.io/ 
+  •	Icons - http://fontawesome.io/ 
 
-•	Slider Slick -  http://kenwheeler.github.io/slick/ 
+  •	Slider Slick -  http://kenwheeler.github.io/slick/ 
 
 
