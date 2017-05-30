@@ -15,5 +15,7 @@ Other technologies I used for the project:
   •	Icons - http://fontawesome.io/ 
 
   •	Slider Slick -  http://kenwheeler.github.io/slick/ 
+  
+  •	Maps - https://goo.gl/tDalJI 
 
 
