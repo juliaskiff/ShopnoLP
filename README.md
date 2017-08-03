@@ -4,7 +4,7 @@ https://juliaskiff.github.io/ShopnoLP/ShopnoLP/index.html
 
 For this project I used HTML, CSS3, Bootstrap 3, Jquerry.
 
-The free psd mock-up was taken from http://psd-html-css.ru.
+The free psd mock-up was taken at http://psd-html-css.ru.
 
 As Less complier I used Winless.
 
